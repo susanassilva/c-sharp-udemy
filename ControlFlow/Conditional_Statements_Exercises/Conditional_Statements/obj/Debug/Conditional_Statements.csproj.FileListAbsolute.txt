@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\bin\Debug\Conditional_Statements.exe.config
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\bin\Debug\Conditional_Statements.exe
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\bin\Debug\Conditional_Statements.pdb
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\obj\Debug\Conditional_Statements.exe
+C:\Users\susan\OneDrive\Documentos\C#Course\ControlFlow\Conditional_Statements_Exercises\Conditional_Statements\obj\Debug\Conditional_Statements.pdb
